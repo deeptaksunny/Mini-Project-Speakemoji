@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speak Emoji!</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body id="top">
+
+    <nav class="navbar">
+        <a href="#top">Home</a>
+        <a href="#main_container">Generate</a>
+        <a href="#features-section">Features</a>
+        <a href="#contact-section">Contact</a>
+    </nav>
+    <div class="intro-background">
+      <section class="intro">
+          <h2>Welcome to Speak Emoji!</h2>
+          <p>Express yourself like never before with a universe of emojis at your fingertips. Simply type your thoughts using emojis and let Speak Emoji bring them to life. Perfect for social media, messaging, and adding a splash of fun to any conversation.</p>
+          <button id="learnMoreBtn" class="learn-more">Learn More</button> <!-- Learn More button -->
+      </section>
+      <section class="video">
+        <video width="100%" height="auto" controls autoplay muted loop>
+            <source src="static/images/demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </section>
+  </div>
+  
+    <div id="main_container"> 
+      <div class="main-container">
+          <div class="content">
+              <h1 class="title">Speak Emoji!</h1>
+              <div class="emoji-input">
+                  <input type="text" class="form-control" id="inputText" placeholder="Enter text with emojis..." aria-label="Enter text with emojis">
+                  <div class="suggestions" id="suggestionsArea"></div>
+              </div>
+              <emoji-picker id="emojiPicker"></emoji-picker>
+              <br>
+              <button id="generateSentenceBtn" class="btn btn-primary">Generate Sentence</button>
+
+              <div id="sentenceDisplay"></div>
+          </div>
+      </div>
+    </div>
+   <!-- Features Section -->
+   <section id="features-section" class="features-content">
+    <h2>Features</h2>
+    <div class="features-grid">
+        <!-- Feature Item 1 -->
+        <div class="feature-item" onmouseover="flipCard(this)" onmouseout="unflipCard(this)">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <h3>Emoji Search</h3>
+                </div>
+                <div class="flip-card-back">
+                    <p>Easily find emojis to express your emotions.</p>
+                </div>
+            </div>
+        </div>
+        <!-- Feature Item 2 -->
+        <div class="feature-item" onmouseover="flipCard(this)" onmouseout="unflipCard(this)">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <h3>Emoji to Text</h3>
+                </div>
+                <div class="flip-card-back">
+                    <p>Convert your emoji to an emotion-filled message.</p>
+                </div>
+            </div>
+        </div>
+        <!-- Feature Item 3 -->
+        <div class="feature-item" onmouseover="flipCard(this)" onmouseout="unflipCard(this)">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <h3>Emoji Suggestions</h3>
+                </div>
+                <div class="flip-card-back">
+                    <p>Get suggestions for emojis as you type.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    <!-- Contact Section -->
+    <section id="contact-section" class="contact-content">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, please don't hesitate to reach out.</p>
+        <p>Email: contact@speakeemoji.com</p>
+        <p>Phone: +123456789</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Speak Emoji!. All rights reserved.</p>
+    </footer>
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/emoji-picker-element@1.21.1/+esm"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script> 
+  </body>
+</html>

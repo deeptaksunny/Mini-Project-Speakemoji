@@ -1,0 +1,583 @@
+emoji,description,sentiment
+😀,grinning face,0.9
+😃,grinning face with big eyes,0.9
+😄,grinning face with smiling eyes,0.9
+😁,beaming face with smiling eyes,0.9
+😆,grinning squinting face,0.8
+😅,grinning face with sweat,0.7
+🤣,rolling on the floor laughing,1.0
+😂,face with tears of joy,1.0
+🙂,slightly smiling face,0.5
+🙃,upside-down face,0.2
+😉,winking face,0.8
+😊,smiling face with smiling eyes,0.9
+😇,smiling face with halo,0.9
+🥰,smiling face with hearts,1.0
+😍,smiling face with heart-eyes,1.0
+🤩,star-struck,0.9
+😘,face blowing a kiss,0.9
+😗,kissing face,0.8
+😚,kissing face with closed eyes,0.8
+😙,kissing face with smiling eyes,0.8
+🥲,smiling face with tear,0.7
+😋,face savoring food,0.8
+😛,face with tongue,0.6
+😜,winking face with tongue,0.6
+🤪,zany face,0.5
+😝,squinting face with tongue,0.6
+🤑,money-mouth face,0.4
+🤗,hugging face,0.9
+🤭,face with hand over mouth,0.5
+🤫,shushing face,0.3
+🤔,thinking face,0.1
+🤐,zipper-mouth face,0.0
+🤨,face with raised eyebrow,-0.1
+😐,neutral face,0.0
+😑,expressionless face,-0.1
+😶,face without mouth,-0.2
+😶‍🌫️,face in clouds,0.0
+😏,smirking face,0.2
+😒,unamused face,-0.5
+🙄,face with rolling eyes,-0.5
+😬,grimacing face,-0.3
+😮‍💨,face exhaling,-0.2
+🤥,lying face,-0.6
+😌,relieved face,0.6
+😔,pensive face,-0.4
+😪,sleepy face,-0.2
+🤤,drooling face,0.1
+😴,sleeping face,0.0
+😷,face with medical mask,-0.3
+🤒,face with thermometer,-0.5
+🤕,face with head-bandage,-0.5
+🤢,nauseated face,-0.9
+🤮,face vomiting,-1.0
+🤧,sneezing face,-0.4
+🥵,hot face,-0.3
+🥶,cold face,-0.3
+🥴,woozy face,-0.5
+😵,knocked-out face,-0.6
+😵‍💫,face with spiral eyes,-0.5
+🤯,exploding head,-0.4
+🤠,cowboy hat face,0.8
+🥳,partying face,0.9
+🥸,disguised face,0.3
+😎,smiling face with sunglasses,0.8
+🤓,nerd face,0.5
+🧐,face with monocle,0.4
+😕,confused face,-0.4
+😟,worried face,-0.7
+🙁,slightly frowning face,-0.6
+☹,frowning face,-0.8
+😮,face with open mouth,0.1
+😯,hushed face,0.0
+😲,astonished face,0.3
+😳,flushed face,0.1
+🥺,pleading face,0.2
+😦,frowning face with open mouth,-0.7
+😧,anguished face,-0.8
+😨,fearful face,-0.9
+😰,anxious face with sweat,-0.8
+😥,sad but relieved face,-0.3
+😢,crying face,-0.9
+😭,loudly crying face,-1.0
+😱,face screaming in fear,-0.9
+😖,confounded face,-0.7
+😣,persevering face,-0.6
+😞,disappointed face,-0.8
+😓,downcast face with sweat,-0.5
+😩,weary face,-0.8
+😫,tired face,-0.8
+🥱,yawning face,-0.2
+😤,face with steam from nose,-0.5
+😡,pouting face,-0.9
+😠,angry face,-1.0
+🤬,face with symbols on mouth,-1.0
+😈,smiling face with horns,-0.4
+👿,angry face with horns,-0.8
+🐵,monkey face,0.3
+🐒,monkey,0.3
+🦍,gorilla,0.2
+🦧,orangutan,0.3
+🐶,dog face,0.8
+🐕,dog,0.8
+🦮,guide dog,0.9
+🐕‍🦺,service dog,0.9
+🐩,poodle,0.7
+🐺,wolf,0.1
+🦊,fox,0.5
+🦝,raccoon,0.4
+🐱,cat face,0.7
+🐈,cat,0.7
+🐈‍⬛,black cat,-0.1 (varies by culture)
+🦁,lion,0.4
+🐯,tiger face,0.4
+🐅,tiger,0.4
+🐆,leopard,0.4
+🐴,horse face,0.5
+🐎,horse,0.5
+🦄,unicorn,0.9
+🦓,zebra,0.5
+🦌,deer,0.6
+🦬,bison,0.4
+🐮,cow face,0.6
+🐂,ox,0.4
+🐃,water buffalo,0.4
+🐄,cow,0.6
+🐷,pig face,0.6
+🐖,pig,0.6
+🐗,boar,0.3
+🐽,pig nose,0.6
+🐏,ram,0.4
+🐑,ewe,0.5
+🐐,goat,0.5
+🐪,camel,0.5
+🐫,two-hump camel,0.5
+🦙,llama,0.6
+🦒,giraffe,0.7
+🐘,elephant,0.6
+🦣,mammoth,0.5
+🦏,rhinoceros,0.3
+🦛,hippopotamus,0.4
+🐭,mouse face,0.6
+🐁,mouse,0.6
+🐀,rat,0.2
+🐹,hamster,0.7
+🐰,rabbit face,0.8
+🐇,rabbit,0.8
+🐿,chipmunk,0.7
+🦫,beaver,0.6
+🦔,hedgehog,0.7
+🦇,bat,-0.2
+🐻,bear,0.5
+🐻‍❄️,polar bear,0.6
+🐨,koala,0.8
+🐼,panda,0.9
+🦥,sloth,0.5
+🦦,otter,0.7
+🦨,skunk,-0.4
+🦘,kangaroo,0.5
+🦡,badger,0.4
+🐾,paw prints,0.6
+🦃,turkey,0.3
+🐔,chicken,0.4
+🐓,rooster,0.4
+🐣,hatching chick,0.7
+🐤,baby chick,0.8
+🐥,front-facing baby chick,0.8
+🐦,bird,0.6
+🐧,penguin,0.7
+🕊,dove,0.8
+🦅,eagle,0.5
+🦆,duck,0.6
+🦢,swan,0.7
+🦉,owl,0.5
+🦤,dodo,0.4
+🪶,feather,0.5
+🦩,flamingo,0.7
+🦚,peacock,0.8
+🦜,parrot,0.7
+🐸,frog,0.5
+🐊,crocodile,0.2
+🐢,turtle,0.7
+🦎,lizard,0.4
+🐍,snake,0.1
+🐲,dragon face,0.3
+🐉,dragon,0.3
+🦕,sauropod,0.6
+🦖,T-Rex,0.3
+🐳,spouting whale,0.7
+🐋,whale,0.7
+🐬,dolphin,0.9
+🦭,seal,0.7
+🐟,fish,0.6
+🐠,tropical fish,0.7
+🐡,blowfish,0.4
+🦈,shark,0.2
+🐙,octopus,0.5
+🐚,spiral shell,0.6
+🐌,snail,0.5
+🦋,butterfly,0.8
+🐛,bug,0.3
+🐜,ant,0.4
+🐝,honeybee,0.7
+🪲,beetle,0.4
+🐞,lady beetle,0.7
+🦗,cricket,0.5
+🪳,cockroach,-0.6
+🕷,spider,-0.3
+🕸,spider web,0.2
+🦂,scorpion,-0.4
+🦟,mosquito,-0.7
+🪰,fly,-0.5
+🪱,worm,0.2
+🦠,microbe,-0.5
+💐,bouquet,0.9
+🌸,cherry blossom,0.8
+💮,white flower,0.7
+🏵,rosette,0.7
+🌹,rose,0.9
+🥀,wilted flower,-0.4
+🌺,hibiscus,0.7
+🌻,sunflower,0.9
+🌼,blossom,0.8
+🌷,tulip,0.8
+🌱,seedling,0.6
+🪴,potted plant,0.7
+🌲,evergreen tree,0.6
+🌳,deciduous tree,0.6
+🌴,palm tree,0.7
+🌵,cactus,0.5
+🌾,sheaf of rice,0.6
+🌿,herb,0.7
+☘,shamrock,0.8
+🍀,four leaf clover,0.9
+🍁,maple leaf,0.6
+🍂,fallen leaf,0.5
+🍃,leaf fluttering in wind,0.7
+🍇,grapes,0.7
+🍈,melon,0.7
+🍉,watermelon,0.8
+🍊,tangerine,0.7
+🍋,lemon,0.6
+🍌,banana,0.7
+🍍,pineapple,0.8
+🥭,mango,0.8
+🍎,red apple,0.7
+🍏,green apple,0.7
+🍐,pear,0.7
+🍑,peach,0.8
+🍒,cherries,0.8
+🍓,strawberry,0.8
+🫐,blueberries,0.8
+🥝,kiwi fruit,0.8
+🍅,tomato,0.6
+🫒,olive,0.5
+🥥,coconut,0.7
+🥑,avocado,0.8
+🍆,eggplant,0.5
+🥔,potato,0.6
+🥕,carrot,0.7
+🌽,ear of corn,0.7
+🌶,hot pepper,0.5
+🫑,bell pepper,0.6
+🥒,cucumber,0.7
+🥬,leafy green,0.8
+🥦,broccoli,0.7
+🧄,garlic,0.5
+🧅,onion,0.5
+🍄,mushroom,0.6
+🥜,peanuts,0.6
+🌰,chestnut,0.6
+🍞,bread,0.7
+🥐,croissant,0.8
+🥖,baguette bread,0.7
+🫓,flatbread,0.7
+🥨,pretzel,0.7
+🥯,bagel,0.7
+🥞,pancakes,0.8
+🧇,waffle,0.8
+🧀,cheese wedge,0.8
+🍖,meat on bone,0.5
+🍗,poultry leg,0.5
+🥩,cut of meat,0.5
+🥓,bacon,0.6
+🍔,hamburger,0.8
+🍟,french fries,0.8
+🍕,pizza,0.9
+🌭,hot dog,0.7
+🥪,sandwich,0.7
+🌮,taco,0.8
+🌯,burrito,0.8
+🫔,tamale,0.7
+🥙,stuffed flatbread,0.7
+🧆,falafel,0.7
+🥚,egg,0.6
+🍳,cooking,0.7
+🥘,shallow pan of food,0.7
+🍲,pot of food,0.7
+🫕,fondue,0.8
+🥣,bowl with spoon,0.7
+🥗,green salad,0.8
+🍿,popcorn,0.8
+🧈,butter,0.7
+🧂,salt,0.5
+🥫,canned food,0.5
+🍱,bento box,0.8
+🍘,rice cracker,0.6
+🍙,rice ball,0.7
+🍚,cooked rice,0.7
+🍛,curry rice,0.8
+🍜,steaming bowl,0.7
+🍝,spaghetti,0.8
+🍠,roasted sweet potato,0.7
+🍢,oden,0.7
+🍣,sushi,0.8
+🍤,fried shrimp,0.7
+🍥,fish cake with swirl,0.6
+🥮,moon cake,0.7
+🍡,dango,0.7
+🥟,dumpling,0.7
+🥠,fortune cookie,0.7
+🥡,takeout box,0.7
+🦀,crab,0.6
+🦞,lobster,0.7
+🦐,shrimp,0.7
+🦑,squid,0.6
+🦪,oyster,0.6
+🍦,soft ice cream,0.8
+🍧,shaved ice,0.8
+🍨,ice cream,0.9
+🍩,doughnut,0.8
+🍪,cookie,0.8
+🎂,birthday cake,0.9
+🍰,shortcake,0.8
+🧁,cupcake,0.8
+🥧,pie,0.8
+🍫,chocolate bar,0.9
+🍬,candy,0.8
+🍭,lollipop,0.8
+🍮,custard,0.7
+🍯,honey pot,0.8
+🍼,baby bottle,0.6
+🥛,glass of milk,0.7
+☕,hot beverage,0.7
+🫖,teapot,0.7
+🍵,teacup without handle,0.7
+🍶,sake,0.7
+🍾,bottle with popping cork,0.8
+🍷,wine glass,0.8
+🍸,cocktail glass,0.8
+🍹,tropical drink,0.9
+🍺,beer mug,0.7
+🍻,clinking beer mugs,0.8
+🥂,clinking glasses,0.8
+🥃,tumbler glass,0.7
+🥤,cup with straw,0.7
+🧋,bubble tea,0.8
+🧃,beverage box,0.6
+🧉,mate,0.6
+🧊,ice,0.5
+🥢,chopsticks,0.6
+🍽,fork and knife with plate,0.7
+🍴,fork and knife,0.6
+🥄,spoon,0.6
+🔪,kitchen knife,0.4
+🏺,amphora,0.5
+🌍,globe showing Europe-Africa,0.7
+🌎,globe showing Americas,0.7
+🌏,globe showing Asia-Australia,0.7
+🌐,globe with meridians,0.7
+🗺,world map,0.7
+🗾,map of Japan,0.6
+🧭,compass,0.7
+🏔,snow-capped mountain,0.7
+⛰,mountain,0.6
+🌋,volcano,0.3
+🗻,mount fuji,0.7
+🏕,camping,0.8
+🏖,beach with umbrella,0.9
+🏜,desert,0.5
+🏝,desert island,0.7
+🏞,national park,0.9
+🏟,stadium,0.7
+🏛,classical building,0.7
+🏗,building construction,0.6
+🧱,brick,0.5
+🪨,rock,0.4
+🪵,wood,0.5
+🛖,hut,0.6
+🏘,houses,0.7
+🏚,derelict house,0.2
+🏠,house,0.8
+🏡,house with garden,0.9
+🏢,office building,0.6
+🏣,Japanese post office,0.7
+🏤,post office,0.7
+🏥,hospital,0.7
+🏦,bank,0.6
+🏨,hotel,0.7
+🏩,love hotel,0.7
+🏪,convenience store,0.7
+🏫,school,0.7
+🏬,department store,0.7
+🏭,factory,0.5
+🏯,Japanese castle,0.7
+🏰,castle,0.8
+💒,wedding,0.9
+🗼,Tokyo tower,0.7
+🗽,Statue of Liberty,0.8
+⛪,church,0.7
+🕌,mosque,0.7
+🛕,hindu temple,0.7
+🕍,synagogue,0.7
+⛩,shinto shrine,0.7
+🕋,kaaba,0.7
+⛲,fountain,0.7
+⛺,tent,0.7
+🌁,foggy,0.4
+🌃,night with stars,0.7
+🏙,cityscape,0.7
+🌄,sunrise over mountains,0.9
+🌅,sunrise,0.9
+🌆,cityscape at dusk,0.7
+🌇,sunset,0.9
+🌉,bridge at night,0.7
+♨,hot springs,0.8
+🌌,milky way,0.9
+🎠,carousel horse,0.8
+🎡,ferris wheel,0.8
+🎢,roller coaster,0.8
+💈,barber pole,0.6
+🎪,circus tent,0.8
+🚂,locomotive,0.6
+🚃,railway car,0.6
+🚄,high-speed train,0.7
+🚅,bullet train,0.7
+🚆,train,0.6
+🚇,metro,0.6
+🚈,light rail,0.6
+🚉,station,0.6
+🚊,tram,0.6
+🚝,monorail,0.7
+🚞,mountain railway,0.7
+🚋,tram car,0.6
+🚌,bus,0.6
+🚍,oncoming bus,0.6
+🚎,trolleybus,0.6
+🚐,minibus,0.6
+🚑,ambulance,0.7
+🚒,fire engine,0.7
+🚓,police car,0.6
+🚔,oncoming police car,0.6
+🚕,taxi,0.6
+🚖,oncoming taxi,0.6
+🚗,car,0.6
+🚘,oncoming automobile,0.6
+🚙,sport utility vehicle,0.6
+🛻,pickup truck,0.6
+🚚,delivery truck,0.6
+🚛,articulated lorry,0.6
+🚜,tractor,0.6
+🏎,racing car,0.7
+🏍,motorcycle,0.7
+🛵,motor scooter,0.7
+🦽,manual wheelchair,0.6
+🦼,motorized wheelchair,0.6
+🛺,auto rickshaw,0.6
+🚲,bicycle,0.7
+🛴,kick scooter,0.7
+🛹,skateboard,0.7
+🛼,roller skate,0.7
+🚏,bus stop,0.6
+🛣,motorway,0.6
+🛤,railway track,0.6
+🛢,oil drum,0.4
+⛽,fuel pump,0.5
+🚨,police car light,0.4
+🚥,horizontal traffic light,0.5
+🚦,vertical traffic light,0.5
+🛑,stop sign,0.4
+🚧,construction,0.4
+⚓,anchor,0.6
+⛵,sailboat,0.7
+🛶,canoe,0.7
+🚤,speedboat,0.7
+🛳,passenger ship,0.7
+⛴,ferry,0.7
+🛥,motor boat,0.7
+🚢,ship,0.7
+✈,airplane,0.7
+🛩,small airplane,0.7
+🛫,airplane departure,0.7
+🛬,airplane arrival,0.7
+🪂,parachute,0.7
+💺,seat,0.5
+🚁,helicopter,0.7
+🚟,suspension railway,0.6
+🚠,mountain cableway,0.7
+🚡,aerial tramway,0.7
+🛰,satellite,0.7
+🚀,rocket,0.8
+🛸,flying saucer,0.8
+🛎,bellhop bell,0.6
+🧳,luggage,0.7
+⌛,hourglass done,0.5
+⏳,hourglass not done,0.5
+⌚,watch,0.6
+⏰,alarm clock,0.5
+⏱,stopwatch,0.6
+⏲,timer clock,0.6
+🕰,mantelpiece clock,0.7
+🕛,twelve o’clock,0.5
+🕧,twelve-thirty,0.5
+🕐,one o’clock,0.5
+🕜,one-thirty,0.5
+🕑,two o’clock,0.5
+🕝,two-thirty,0.5
+🕒,three o’clock,0.5
+🕞,three-thirty,0.5
+🕓,four o’clock,0.5
+🕟,four-thirty,0.5
+🕔,five o’clock,0.5
+🕠,five-thirty,0.5
+🕕,six o’clock,0.5
+🕡,six-thirty,0.5
+🕖,seven o’clock,0.5
+🕢,seven-thirty,0.5
+🕗,eight o’clock,0.5
+🕣,eight-thirty,0.5
+🕘,nine o’clock,0.5
+🕤,nine-thirty,0.5
+🕙,ten o’clock,0.5
+🕥,ten-thirty,0.5
+🕚,eleven o’clock,0.5
+🕦,eleven-thirty,0.5
+🌑,new moon,0.5
+🌒,waxing crescent moon,0.6
+🌓,first quarter moon,0.6
+🌔,waxing gibbous moon,0.7
+🌕,full moon,0.8
+🌖,waning gibbous moon,0.7
+🌗,last quarter moon,0.6
+🌘,waning crescent moon,0.6
+🌙,crescent moon,0.7
+🌚,new moon face,0.5
+🌛,first quarter moon face,0.6
+🌜,last quarter moon face,0.6
+🌡,thermometer,0.5
+☀,sun,0.9
+🌝,full moon face,0.8
+🌞,sun with face,0.9
+🪐,ringed planet,0.8
+⭐,star,0.8
+🌟,glowing star,0.9
+🌠,shooting star,0.9
+🌌,milky way,0.9
+☁,cloud,0.6
+⛅,sun behind cloud,0.7
+⛈,cloud with lightning and rain,0.3
+🌤,sun behind small cloud,0.8
+🌥,sun behind large cloud,0.7
+🌦,sun behind rain cloud,0.6
+🌧,cloud with rain,0.5
+🌨,cloud with snow,0.6
+🌩,cloud with lightning,0.4
+🌪,tornado,0.2
+🌫,fog,0.4
+🌬,wind face,0.6
+🌀,cyclone,0.3
+🌈,rainbow,0.9
+🌂,closed umbrella,0.6
+☂,umbrella,0.7
+☔,umbrella with rain drops,0.5
+⛱,umbrella on ground,0.8
+⚡,high voltage,0.4
+❄,snowflake,0.6
+☃,snowman,0.7
+⛄,snowman without snow,0.6
+☄,comet,0.7
+🔥,fire,0.5
+💧,droplet,0.5
+🌊,water wave,0.7
+🎃,jack-o-lantern,0.6
